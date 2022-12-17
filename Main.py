@@ -13,7 +13,7 @@ class Main:
 		;       Author : BANGJUN    ;
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-NOTE: This tool's only work for Indonesia number phone.
+NOTE: spam untuk Indonesia.
 
 1. SMS Gratis
 2. OTP Matahari
